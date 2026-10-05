@@ -1,0 +1,10 @@
+{
+  "name": "Zombie Co-op",
+  "short_name": "Zombie Co-op",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#101510",
+  "theme_color": "#101510",
+  "orientation": "landscape",
+  "description": "A simple two-player online zombie survival game."
+}
